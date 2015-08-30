@@ -2,7 +2,11 @@
 <classpath>
 	<classpathentry kind="src" path="src/java"/>
 	<classpathentry kind="src" path="src/scala"/>
-	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry exported="true" kind="con" path="org.scala-ide.sdt.launching.SCALA_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER" exported="true"/>
+	<classpathentry kind="con" path="org.scala-ide.sdt.launching.SCALA_CONTAINER" exported="true"/>
 	<classpathentry kind="output" path="bin"/>
+	<classpathentry sourcepath="/Users/MLS/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-compiler/2.11.7/ec2cbcc439acd601f64e192607ca353fe61d73d9/scala-compiler-2.11.7-sources.jar" kind="lib" path="/Users/MLS/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-compiler/2.11.7/1454c21d39a4d991006a2a47c164f675ea1dafaf/scala-compiler-2.11.7.jar" exported="true"/>
+	<classpathentry sourcepath="/Users/MLS/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-reflect/2.11.7/c4d5a9d0a7a6956720809bcebca1b2fe978e5dc6/scala-reflect-2.11.7-sources.jar" kind="lib" path="/Users/MLS/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-reflect/2.11.7/bf1649c9d33da945dea502180855b56caf06288c/scala-reflect-2.11.7.jar" exported="true"/>
+	<classpathentry sourcepath="/Users/MLS/.gradle/caches/modules-2/files-2.1/org.scala-lang.modules/scala-xml_2.11/1.0.4/eb417145240036662d65c1c42598089b9d15d634/scala-xml_2.11-1.0.4-sources.jar" kind="lib" path="/Users/MLS/.gradle/caches/modules-2/files-2.1/org.scala-lang.modules/scala-xml_2.11/1.0.4/b67c76af885ba3323ce51bbed4c9232f4bd5d8fd/scala-xml_2.11-1.0.4.jar" exported="true"/>
+	<classpathentry sourcepath="/Users/MLS/.gradle/caches/modules-2/files-2.1/org.scala-lang.modules/scala-parser-combinators_2.11/1.0.4/2c66955d5543265eb450de4e9ec7ac467d94be54/scala-parser-combinators_2.11-1.0.4-sources.jar" kind="lib" path="/Users/MLS/.gradle/caches/modules-2/files-2.1/org.scala-lang.modules/scala-parser-combinators_2.11/1.0.4/7369d653bcfa95d321994660477a4d7e81d7f490/scala-parser-combinators_2.11-1.0.4.jar" exported="true"/>
 </classpath>

@@ -7,8 +7,8 @@
       <entry name=".+\.(gif|png|jpeg|jpg)"/>
     </resourceExtensions>
     <wildcardResourcePatterns>
-      <entry name="!?*.groovy"/>
       <entry name="!?*.java"/>
+      <entry name="!?*.groovy"/>
     </wildcardResourcePatterns>
     <annotationProcessing enabled="false" useClasspath="true"/>
   </component>
@@ -48,7 +48,7 @@
       <module fileurl="file://$PROJECT_DIR$/patterns.iml" filepath="$PROJECT_DIR$/patterns.iml"/>
     </modules>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_7" assert-keyword="true" jdk-15="true" project-jdk-type="JavaSDK" assert-jdk-15="true" project-jdk-name="1.7">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" assert-keyword="true" jdk-15="true" project-jdk-type="JavaSDK" assert-jdk-15="true" project-jdk-name="1.8">
     <output url="file://$PROJECT_DIR$/out"/>
   </component>
   <component name="SvnBranchConfigurationManager">
@@ -99,13 +99,13 @@
     </states>
   </component>
   <component name="libraryTable">
-    <library name="scala-compiler-2.11.5">
+    <library name="scala-compiler-2.11.7">
       <CLASSES>
-        <root url="jar:///Users/2011204/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-compiler/2.11.5/eb2631e425d240f55ffc060c3262caa4d05d8d1a/scala-compiler-2.11.5.jar!/"/>
-        <root url="jar:///Users/2011204/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.5/a5544bb030c5e6c3d81ad116b7dc5024f047df26/scala-library-2.11.5.jar!/"/>
-        <root url="jar:///Users/2011204/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-reflect/2.11.5/69ce65b0f0767c4e5eafaf789fdde7aab78bd9d/scala-reflect-2.11.5.jar!/"/>
-        <root url="jar:///Users/2011204/.gradle/caches/modules-2/files-2.1/org.scala-lang.modules/scala-xml_2.11/1.0.3/8f295fc7620bf5a71eb7e34e71d97207aa534abf/scala-xml_2.11-1.0.3.jar!/"/>
-        <root url="jar:///Users/2011204/.gradle/caches/modules-2/files-2.1/org.scala-lang.modules/scala-parser-combinators_2.11/1.0.3/b85f2ff7cbdb5540a4c293a947cc936892040fc9/scala-parser-combinators_2.11-1.0.3.jar!/"/>
+        <root url="jar:///Users/MLS/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-compiler/2.11.7/1454c21d39a4d991006a2a47c164f675ea1dafaf/scala-compiler-2.11.7.jar!/"/>
+        <root url="jar:///Users/MLS/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.7/f75e7acabd57b213d6f61483240286c07213ec0e/scala-library-2.11.7.jar!/"/>
+        <root url="jar:///Users/MLS/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-reflect/2.11.7/bf1649c9d33da945dea502180855b56caf06288c/scala-reflect-2.11.7.jar!/"/>
+        <root url="jar:///Users/MLS/.gradle/caches/modules-2/files-2.1/org.scala-lang.modules/scala-xml_2.11/1.0.4/b67c76af885ba3323ce51bbed4c9232f4bd5d8fd/scala-xml_2.11-1.0.4.jar!/"/>
+        <root url="jar:///Users/MLS/.gradle/caches/modules-2/files-2.1/org.scala-lang.modules/scala-parser-combinators_2.11/1.0.4/7369d653bcfa95d321994660477a4d7e81d7f490/scala-parser-combinators_2.11-1.0.4.jar!/"/>
       </CLASSES>
       <JAVADOC/>
       <SOURCES/>
